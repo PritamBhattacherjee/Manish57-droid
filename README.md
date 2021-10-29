@@ -23,6 +23,8 @@
  
 <h2 align="left">📊 My GitHub Stats</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manish57-droid&theme=midnight-purple&show_icons=true&locale=en" alt="manish57-droid" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=manish57-droid&theme=midnight-purple&show_icons=true&locale=en" alt="manish57-droid" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manish57-droid&&theme=highcontrast" alt="manish57-droid" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=manish57-droid&theme=highcontrast" alt="manish57-droid" /></p>
+
+<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=manish57-droid&theme=rogue"><p>
