@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" height="40">, I'm Manish👨🏻‍💻</h1>
-<h3 align="center">A CSE Student with some coding stuffs...</h3>
+<h3 align="center">A CSE Student with some skills coding stuffs...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manish57-droid&label=Profile%20views&color=0e75b6&style=flat" alt="manish57-droid" /> </p>
 
